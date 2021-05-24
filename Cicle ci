@@ -34,7 +34,6 @@ git <<YOUR SETUP COMMAND>>
 
 Any Git config you define in `config.include` will be distributed to all your engineers with the setup command. Plus you can add shell scripts to the root directory of _Enterprise Config for Git_ that are available to all engineers via the setup command (see the [`clone.sh`](./clone.sh) implementation as example for `git adsk clone`)
 
-
 ## Need Help?
 
 _Enterprise Config for Git_ is a fairly new project and not very mature at this point. In case of trouble or questions please create a GitHub issue and we will try to get back to you ASAP.
